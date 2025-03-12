@@ -5,7 +5,7 @@ def fib(n):
     b=1
 
     print(a)
-    print(b)
+    # print(b)
 
     for i in range(2,n):
         c= a + b
